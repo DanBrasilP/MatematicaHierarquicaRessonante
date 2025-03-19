@@ -11,6 +11,10 @@ A **Matemática Hierárquica Ressonante (MHR)** é um novo método matemático p
 
 Esta implementação em Python permite aplicar a MHR a sistemas físicos, biológicos, econômicos e outros fenômenos científicos.
 
+O desenvolvimento do modelo contou ajuda por interações com inteligências artificiais, Grok e ChatGPT.
+
+Entretanto, o processo envolveu muitas iterações e erros. O esforço contínuo para revisar e aprimorar a implementação visa garantir sua coerência e testabilidade, tornando-a acessível para discussão e validação pela comunidade científica.
+
 ---
 
 ## 📌 Recursos e Funcionalidades
