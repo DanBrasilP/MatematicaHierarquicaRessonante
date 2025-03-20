@@ -39,10 +39,4 @@ Este projeto está licenciado sob a GPLv3. Isso significa que qualquer modifica�
 ### 🤝 Contribuições
 Sinta-se à vontade para contribuir! Se encontrar um problema ou tiver sugestões, abra uma issue ou envie um pull request.
 
-### 📬 Contato
-Criado por Danilo Brasileiro Passos.
-📧 Email: danilobpassos@gmail.com
-🐦 Twitter: @DanBrasilP
-📌 GitHub: DanBrasilP
-
 Se tiver dúvidas, abra uma issue ou entre em contato!
